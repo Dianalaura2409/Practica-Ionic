@@ -1,0 +1,5 @@
+Realizar la app en Ionic, En cada Tab poner informacion
+Tab1 Inforamcion Principal
+Tab 2 INformacion Adional
+Tab 3 input contacto.
+Mostrar informacion de input en pantalla(No obligatorio)  Investigen
